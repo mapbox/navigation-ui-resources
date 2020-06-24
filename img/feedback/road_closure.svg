@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>feedback_button_5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Feedback-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tintable-Assets" transform="translate(-277.000000, -526.000000)">
+            <g id="Group-Copy" transform="translate(13.000000, 238.000000)">
+                <g id="Group-8" transform="translate(0.000000, 120.000000)">
+                    <g id="feedback_button_5" transform="translate(264.000000, 168.000000)">
+                        <path d="M70,35 C70,54.3305 54.327,70 35,70 C15.673,70 0,54.3305 0,35 C0,15.6695 15.673,0 35,0 C54.327,0 70,15.6695 70,35 Z" id="Stroke-1-Copy-9" fill="#000000"></path>
+                        <path d="M35,15 C23.95425,15 15,23.95425 15,35 C15,46.04575 23.95425,55 35,55 C46.04575,55 55,46.04575 55,35 C55,23.95425 46.04575,15 35,15 Z M26.2304736,32 C25.550883,32 25,32.4197188 25,32.9375 L25,37.0625 C25,37.5802812 25.550883,38 26.2304736,38 L44.7695264,38 C45.449117,38 46,37.5802812 46,37.0625 L46,32.9375 C46,32.4197188 45.449117,32 44.7695264,32 L26.2304736,32 Z" id="Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
