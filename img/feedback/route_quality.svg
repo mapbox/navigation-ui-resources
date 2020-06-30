@@ -1,55 +1,147 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>feedback_button_3</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <polygon id="path-1" points="0.04895 0.363089049 6.7327 0.363089049 6.7327 11 0.04895 11"></polygon>
-        <polygon id="path-3" points="0 -0.0001 28.2739 -0.0001 28.2739 30.8989 0 30.8989"></polygon>
-        <polygon id="path-5" points="0.6383 0.986 7.32205 0.986 7.32205 11.6217552 0.6383 11.6217552"></polygon>
-        <polygon id="path-7" points="0.9014 0.434 21.371 0.434 21.371 6.986 0.9014 6.986"></polygon>
-    </defs>
-    <g id="Feedback-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Tintable-Assets" transform="translate(-30.000000, -526.000000)">
-            <g id="Group-Copy" transform="translate(13.000000, 238.000000)">
-                <g id="Group-8" transform="translate(0.000000, 120.000000)">
-                    <g id="feedback_button_3" transform="translate(17.000000, 168.000000)">
-                        <path d="M70,35 C70,54.3305 54.327,70 35,70 C15.673,70 0,54.3305 0,35 C0,15.6695 15.673,0 35,0 C54.327,0 70,15.6695 70,35 Z" id="Stroke-1-Copy-10" fill="#000000"></path>
-                        <g id="Icon" transform="translate(15.000000, 18.000000)">
-                            <g id="Group-3" transform="translate(0.000000, 23.014400)">
-                                <mask id="mask-2" fill="white">
-                                    <use xlink:href="#path-1"></use>
-                                </mask>
-                                <g id="Clip-2"></g>
-                                <path d="M0.4877,4.8181 C-0.0973,5.2931 -0.0973,6.0701 0.4877,6.5461 L5.6687,10.7521 C6.2537,11.2271 6.7327,10.9991 6.7327,10.2451 L6.7327,1.1181 C6.7327,0.3641 6.2537,0.1361 5.6687,0.6111 L0.4877,4.8181 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
-                            </g>
-                            <g id="Group-6" transform="translate(0.000000, 1.014400)">
-                                <mask id="mask-4" fill="white">
-                                    <use xlink:href="#path-3"></use>
-                                </mask>
-                                <g id="Clip-5"></g>
-                                <path d="M28.2739,15.4489 C28.2739,6.9169 21.3569,-0.0001 12.8249,-0.0001 L-0.0001,-0.0001 L-0.0001,6.4549 L12.8469,6.4549 C17.8199,6.4549 21.8519,10.4869 21.8519,15.4599 C21.8519,20.4329 17.8199,24.4649 12.8469,24.4649 L4.1309,24.4649 L4.1309,30.8989 L12.8249,30.8989 C21.3569,30.8989 28.2739,23.9819 28.2739,15.4489" id="Fill-4" fill="#FFFFFF" mask="url(#mask-4)"></path>
-                            </g>
-                            <g id="Group-9" transform="translate(32.000000, 0.014400)">
-                                <mask id="mask-6" fill="white">
-                                    <use xlink:href="#path-5"></use>
-                                </mask>
-                                <g id="Clip-8"></g>
-                                <path d="M6.8833,7.1677 C7.4683,6.6927 7.4683,5.9157 6.8833,5.4397 L1.7023,1.2337 C1.1173,0.7587 0.6383,0.9867 0.6383,1.7407 L0.6383,10.8677 C0.6383,11.6207 1.1173,11.8487 1.7023,11.3737 L6.8833,7.1677 Z" id="Fill-7" fill="#FFFFFF" mask="url(#mask-6)"></path>
-                            </g>
-                            <path d="M18.1914,21.9477 C17.7604,20.8957 17.5194,19.7467 17.5194,18.5397 C17.5194,16.3687 18.2884,14.3767 19.5684,12.8217 C18.5274,10.8767 16.6794,9.4307 14.4754,8.9237 C12.3654,11.5647 11.0964,14.9077 11.0964,18.5507 C11.0964,20.5467 11.4884,22.4477 12.1774,24.1987 L12.7414,24.1987 C14.8654,24.1987 16.7914,23.3377 18.1914,21.9477" id="Fill-10" fill="#FFFFFF"></path>
-                            <path d="M27.9194,9.5351 L35.2394,9.5351 L35.2394,3.1011 L26.5464,3.1011 C25.4064,3.1011 24.2984,3.2331 23.2284,3.4681 C25.2284,5.0901 26.8374,7.1661 27.9194,9.5351" id="Fill-12" fill="#FFFFFF"></path>
-                            <g id="Group-16" transform="translate(18.000000, 27.014400)">
-                                <mask id="mask-8" fill="white">
-                                    <use xlink:href="#path-7"></use>
-                                </mask>
-                                <g id="Clip-15"></g>
-                                <path d="M8.5244,0.531 C8.0994,0.531 7.6834,0.491 7.2744,0.434 C5.5464,2.403 3.3714,3.963 0.9014,4.951 C3.1574,6.239 5.7624,6.986 8.5464,6.986 L21.3714,6.986 L21.3714,0.531 L8.5244,0.531 Z" id="Fill-14" fill="#FFFFFF" mask="url(#mask-8)"></path>
-                            </g>
-                        </g>
-                    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="route_quality.svg"
+   id="svg1155"
+   version="1.1"
+   viewBox="0 0 70 70"
+   height="70px"
+   width="70px">
+  <metadata
+     id="metadata1159">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>feedback_button_3</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="g1194"
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="32.555147"
+     inkscape:cx="30.110294"
+     inkscape:zoom="3.8857143"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     id="namedview1157"
+     inkscape:window-height="755"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+  <title
+     id="title1112">feedback_button_3</title>
+  <desc
+     id="desc1114">Created with Sketch.</desc>
+  <defs
+     id="defs1120">
+    <polygon
+       points="0.04895 0.363089049 6.7327 0.363089049 6.7327 11 0.04895 11"
+       id="path-1" />
+    <polygon
+       points="0 -0.0001 28.2739 -0.0001 28.2739 30.8989 0 30.8989"
+       id="path-3" />
+    <polygon
+       points="0.6383 0.986 7.32205 0.986 7.32205 11.6217552 0.6383 11.6217552"
+       id="path-5" />
+    <polygon
+       points="0.9014 0.434 21.371 0.434 21.371 6.986 0.9014 6.986"
+       id="path-7" />
+  </defs>
+  <g
+     fill-rule="evenodd"
+     fill="none"
+     stroke-width="1"
+     stroke="none"
+     id="Feedback-UI">
+    <g
+       transform="translate(-30,-526)"
+       id="Tintable-Assets">
+      <g
+         transform="translate(13,238)"
+         id="Group-Copy">
+        <g
+           transform="translate(0,120)"
+           id="Group-8">
+          <g
+             transform="translate(17,168)"
+             id="feedback_button_3">
+            <g
+               transform="translate(15,18)"
+               id="Icon">
+              <g
+                 transform="translate(0,23.0144)"
+                 id="Group-3" />
+              <g
+                 transform="translate(0,1.0144)"
+                 id="Group-6">
+                <mask
+                   fill="#ffffff"
+                   id="mask-4">
+                  <use
+                     height="100%"
+                     width="100%"
+                     y="0"
+                     x="0"
+                     id="use1129"
+                     xlink:href="#path-3" />
+                </mask>
+                <g
+                   id="Clip-5" />
+              </g>
+              <g
+                 transform="translate(32,0.0144)"
+                 id="Group-9" />
+              <g
+                 transform="translate(18,27.0144)"
+                 id="Group-16">
+                <mask
+                   fill="#ffffff"
+                   id="mask-8">
+                  <use
+                     height="100%"
+                     width="100%"
+                     y="0"
+                     x="0"
+                     id="use1143"
+                     xlink:href="#path-7" />
+                </mask>
+                <g
+                   id="Clip-15" />
+                <g
+                   id="g1194">
+                  <path
+                     d="m 48.109375,19 c -0.283154,0.0171 -0.470703,0.284609 -0.470703,0.755859 v 1.345703 h -6.091797 c -1.14,0 -2.248359,0.132188 -3.318359,0.367188 2,1.622 3.609406,3.697406 4.691406,6.066406 h 4.71875 v 1.347656 c 0,0.753001 0.479453,0.98086 1.064453,0.50586 l 5.179687,-4.207031 c 0.585001,-0.475 0.585001,-1.252516 0,-1.728516 L 48.703125,19.248047 C 48.48375,19.069922 48.279268,18.98974 48.109375,19 Z M 15,19.013672 v 6.455078 h 12.847656 c 4.973,0 9.003906,4.032859 9.003906,9.005859 0,4.973 -4.030906,9.003907 -9.003906,9.003907 h -6.115234 v -1.345704 c 0,-0.753999 -0.479453,-0.982812 -1.064453,-0.507812 l -5.179688,4.207031 c -0.585,0.475 -0.585,1.252516 0,1.728516 l 5.179688,4.205078 c 0.585,0.475 1.064453,0.248141 1.064453,-0.505859 v -1.345704 h 6.091797 c 8.532,0 15.449219,-6.918171 15.449219,-15.451171 0,-8.532 -6.917219,-15.449219 -15.449219,-15.449219 z m 14.474609,7.910156 c -2.11,2.641 -3.378906,5.983953 -3.378906,9.626953 0,1.996 0.393031,3.897438 1.082031,5.648438 h 0.564454 c 2.124,0 4.049218,-0.861953 5.449218,-2.251953 -0.431,-1.052 -0.671875,-2.201203 -0.671875,-3.408204 0,-2.170999 0.768828,-4.161796 2.048828,-5.716796 -1.041,-1.945 -2.88975,-3.391438 -5.09375,-3.898438 z m 10.798829,18.525391 c -1.728001,1.969 -3.901094,3.527625 -6.371094,4.515625 C 36.158344,51.252844 38.762875,52 41.546875,52 H 54.371094 V 45.544922 H 41.523438 c -0.425,0 -0.841,-0.0387 -1.25,-0.0957 z M 70,35 C 70,54.3305 54.327,70 35,70 15.673,70 0,54.3305 0,35 0,15.6695 15.673,0 35,0 54.327,0 70,15.6695 70,35 Z"
+                     transform="translate(-33,-45.0144)"
+                     style="fill:#000000"
+                     mask="url(#mask-2)"
+                     id="Fill-1" />
                 </g>
+              </g>
             </g>
+          </g>
         </g>
+      </g>
     </g>
+  </g>
 </svg>
