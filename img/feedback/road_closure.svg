@@ -1,18 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>feedback_button_5</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Feedback-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Tintable-Assets" transform="translate(-277.000000, -526.000000)">
-            <g id="Group-Copy" transform="translate(13.000000, 238.000000)">
-                <g id="Group-8" transform="translate(0.000000, 120.000000)">
-                    <g id="feedback_button_5" transform="translate(264.000000, 168.000000)">
-                        <path d="M70,35 C70,54.3305 54.327,70 35,70 C15.673,70 0,54.3305 0,35 C0,15.6695 15.673,0 35,0 C54.327,0 70,15.6695 70,35 Z" id="Stroke-1-Copy-9" fill="#000000"></path>
-                        <path d="M35,15 C23.95425,15 15,23.95425 15,35 C15,46.04575 23.95425,55 35,55 C46.04575,55 55,46.04575 55,35 C55,23.95425 46.04575,15 35,15 Z M26.2304736,32 C25.550883,32 25,32.4197188 25,32.9375 L25,37.0625 C25,37.5802812 25.550883,38 26.2304736,38 L44.7695264,38 C45.449117,38 46,37.5802812 46,37.0625 L46,32.9375 C46,32.4197188 45.449117,32 44.7695264,32 L26.2304736,32 Z" id="Shape" fill="#FFFFFF"></path>
-                    </g>
-                </g>
-            </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="road_closure.svg"
+   id="svg915"
+   version="1.1"
+   viewBox="0 0 70 70"
+   height="70px"
+   width="70px">
+  <metadata
+     id="metadata921">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>feedback_button_5</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs919" />
+  <sodipodi:namedview
+     inkscape:current-layer="feedback_button_5"
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="35"
+     inkscape:cx="35"
+     inkscape:zoom="3.8857143"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     id="namedview917"
+     inkscape:window-height="480"
+     inkscape:window-width="786"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+  <title
+     id="title904">feedback_button_5</title>
+  <desc
+     id="desc906">Created with Sketch.</desc>
+  <g
+     fill-rule="evenodd"
+     fill="none"
+     stroke-width="1"
+     stroke="none"
+     id="Feedback-UI">
+    <g
+       transform="translate(-277.000000, -526.000000)"
+       id="Tintable-Assets">
+      <g
+         transform="translate(13.000000, 238.000000)"
+         id="Group-Copy">
+        <g
+           transform="translate(0.000000, 120.000000)"
+           id="Group-8">
+          <g
+             transform="translate(264.000000, 168.000000)"
+             id="feedback_button_5">
+            <path
+               style="fill:#000000"
+               d="M 35,15 C 23.95425,15 15,23.95425 15,35 15,46.04575 23.95425,55 35,55 46.04575,55 55,46.04575 55,35 55,23.95425 46.04575,15 35,15 Z M 26.230474,32 C 25.550883,32 25,32.419719 25,32.9375 v 4.125 C 25,37.580281 25.550883,38 26.230474,38 H 44.769526 C 45.449117,38 46,37.580281 46,37.0625 v -4.125 C 46,32.419719 45.449117,32 44.769526,32 Z M 70,35 C 70,54.3305 54.327,70 35,70 15.673,70 0,54.3305 0,35 0,15.6695 15.673,0 35,0 54.327,0 70,15.6695 70,35 Z"
+               id="Shape" />
+          </g>
         </g>
+      </g>
     </g>
+  </g>
 </svg>
