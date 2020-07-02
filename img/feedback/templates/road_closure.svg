@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>road_closure</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="road_closure" fill="#000000" fill-rule="nonzero">
+            <path d="M20,0 C31.04575,0 40,8.95425 40,20 C40,31.04575 31.04575,40 20,40 C8.95425,40 0,31.04575 0,20 C0,8.95425 8.95425,0 20,0 Z M29.769526,17 L11.230474,17 C10.550883,17 10,17.419719 10,17.9375 L10,22.0625 C10,22.580281 10.550883,23 11.230474,23 L29.769526,23 C30.449117,23 31,22.580281 31,22.0625 L31,17.9375 C31,17.419719 30.449117,17 29.769526,17 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
