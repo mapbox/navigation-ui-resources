@@ -28,3 +28,6 @@ This naming scheme assumes the following algorithm for translating the Mapbox Di
    * Otherwise, if it does not exist:
       * If `valid_indication` is set, draw the canvas with that name using the `primary_color`.
       * Otherwise, if `valid_indication` is unset, draw the canvas `straight` using the `secondary_color`.
+1. If the `flipped` flag is set, flip the image horizontally.
+
+In the algorithm above, “leftward” means `sharp left`, `left`, or `slight left`; “rightward” means `slight right`, `right`, or `sharp_right`. `uturn` is leftward if the driving side is to the right and rightward if the driving side is to the left.
