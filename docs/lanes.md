@@ -13,8 +13,8 @@ This naming scheme assumes the following algorithm for translating the Mapbox Di
       * If `valid_indication` is leftward, prepend `opposite ` to any rightward indication and set the `flipped` flag.
       * If `valid_indication` is rightward, prepend `opposite ` to any leftward indication.
    * Otherwise, if the array contains a leftward indication, set the `flipped` flag.
-1. For each indication, replace any occurrence of `left` or `right` with `turn`.
-1. If `valid_indication` is set, replace any occurrence of `left` or `right` with `turn`.
+1. For each indication, replace any occurrence of `left` or `right` with `turn` inside the indication.
+1. If `valid_indication` is set, replace any occurrence of `left` or `right`with `turn` inside `valid_indication` .
 1. Sort the array of indications in the following order: `opposite uturn`, `opposite sharp turn`, `opposite turn`, `opposite slight turn`, `straight`, `slight turn`, `turn`, `sharp turn`, `uturn`.
 1. If there are more than three indications, keep one that matches `valid_indication` and two others and discard the rest.
 1. Set the canvas name to `lane ` followed by the array of indications joined by ` or `.
@@ -22,7 +22,9 @@ This naming scheme assumes the following algorithm for translating the Mapbox Di
 1. Look up the canvas by name:
    * If the canvas exists, draw it using the `primary_color` and `secondary_color`.
    * Otherwise, if it does not exist:
-      * If `valid_indication` is set, draw the canvas with that name using the `primary_color`.
+      * If `valid_indication` is set:
+         1. Set the canvas name to the value of `valid_indication`, followed by ` using `, followed by the value of `valid_indication`.
+         1. Draw the canvas with that name using the `primary_color`.
       * Otherwise, if `valid_indication` is unset, draw the canvas `straight` using the `secondary_color`.
 1. If the `flipped` flag is set, flip the image horizontally.
 
