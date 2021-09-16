@@ -11,7 +11,7 @@ This naming scheme assumes the following algorithm for translating the Mapbox Di
 1. Classify each indication as leftward or rightward:
    * If the array contains both leftward and rightward indications:
       * If `valid_indication` is leftward, prepend `opposite ` to any rightward indication and set the `flipped` flag.
-      * If `valid_indication` is rightward, prepend `opposite ` to any leftward indication.
+      * Otherwise, prepend `opposite ` to any leftward indication.
    * Otherwise, if the array contains a leftward indication, set the `flipped` flag.
 1. For each indication, replace any occurrence of `left` or `right` with `turn` inside the indication.
 1. If `valid_indication` is set, replace any occurrence of `left` or `right`with `turn` inside `valid_indication` .
